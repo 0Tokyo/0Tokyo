@@ -3,9 +3,9 @@
 I'm a Computer Science student with over 4 years of self-taught programming experience. My journey began with C++, where I focused on developing desktop applications and kernel drivers. This deep dive into lower-level programming gave me a solid foundation in software development and sparked my passion for Windows internals and reverse engineering.
 
 #### 🔧 Technologies & Tools:
-- **Languages:** C/C++, x64 Assembly
+- **Languages:** C/C++, x64 Assembly, C#, Java
 - **System Specialties:** Windows Internals & Reverse Engineering
-- **Development Tools:** Git, Visual Studio
+- **Development Tools:** Git, Visual Studio, Eclipse
 
 #### 🚀 What I'm Working On:
 - **Virtualization**: Currently deepening my understanding of system virtualization protocols like VT-x and SVM.
