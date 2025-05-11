@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Software Engineering student with over 4 years of self-taught programming experience. My journey began with C++, where I focused on developing desktop applications and kernel drivers. This deep dive into lower-level programming gave me a solid foundation in software development and sparked my passion for Windows internals and reverse engineering.
+I'm a Computer Science student with over 4 years of self-taught programming experience. My journey began with C++, where I focused on developing desktop applications and kernel drivers. This deep dive into lower-level programming gave me a solid foundation in software development and sparked my passion for Windows internals and reverse engineering.
 
 #### 🔧 Technologies & Tools:
 - **Languages:** C/C++, x64 Assembly
